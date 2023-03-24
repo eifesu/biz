@@ -1,0 +1,22 @@
+@import './base.css';
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@400;500;700;900&family=Montserrat:wght@400;500;700;900&display=swap');
+
+#app {
+  margin: 0 auto;
+  font-weight: normal;
+ 
+}
+
+:root {
+  --primary-color : #409931;
+  --secondary-color: #E8F9E5;
+  --tertiary-color: #9ACB91;
+}
+
+button, input, select {
+  all: unset
+}
+
+button {
+  cursor: pointer;
+}
